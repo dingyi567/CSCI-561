@@ -1,0 +1,4 @@
+3
+["or", ["and", "A", "B"], ["and", "C", "D"], ["or", "E", "F"], ["and", "G", "H"]]
+["implies", ["and", "A", "B"], ["and", "C", "D"]]
+['or', ['not', 'A'], ['not', 'B'], ['and', 'C', 'D']]

@@ -1,0 +1,7 @@
+6
+["or", "A", ["and", "A", "B"], ["and", "B", "A"]]
+["and", ["and", ["implies", "P", "Q"], "P"], ["not", "Q"]]
+["and", ["and", ["iff", "S", ["and", "Q", "R"]], ["not", "Q"]], "S"]
+["and", ["and", ["and", ["and", "A", "B", "C"], "D"], "C"], "B", "A"]
+["or", ["or", ["or", ["or", "A", "B", "C"], "D"], "C"], "B", "A"]
+["or", ["and", ["or", ["and", "A", "B", "C"], "D"], "C"], "B", "A"]
